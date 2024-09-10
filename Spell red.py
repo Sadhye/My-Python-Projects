@@ -1,0 +1,5 @@
+input("Spell red: ")
+input("What colour is a carrot?: ")
+input("If you dig a 6 foot hole, how deep is that hole?: ")
+input("1 - 1 = ")
+print("Congratulations! You are stupid!")
